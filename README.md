@@ -1,5 +1,5 @@
 # Mail-Merge_Gmail-API-Python
-Mail merge from excel or csv file to sen Gmail draft to multiple recipient
+Mail merge from excel or csv file to send Gmail draft to multiple recipients
 
 Python 3.11
 
